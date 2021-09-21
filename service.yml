@@ -1,0 +1,3 @@
+services:
+  A1:
+    class: plc.FX3U.FX3U
